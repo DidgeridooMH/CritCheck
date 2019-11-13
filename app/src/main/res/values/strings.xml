@@ -5,6 +5,22 @@
     <string name="title_stats">Stats</string>
     <string name="title_spells">Spells</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avatar_desc">Avatar picture of character</string>
+
+    <!-- Titles for about tab -->
+    <string name="title_character">Character</string>
+    <string name="title_personality">Personality</string>
+
+    <!-- Labels for about tab -->
+    <string name="label_name">Name</string>
+    <string name="label_race">Race</string>
+    <string name="label_class">Class</string>
+    <string name="label_campaign">Campaign</string>
+
+    <string name="label_deity">Deity</string>
+    <string name="label_alignment">Alignment</string>
+    <string name="label_background">Background</string>
+
+    <string name="label_exp">Experience</string>
+    <string name="label_add_exp">Add Experience</string>
 </resources>

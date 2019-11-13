@@ -7,8 +7,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
-import android.view.SurfaceControl;
-import android.widget.TextView;
+
+import dev.didgeridoomh.critcheck.fragments.AboutFragment;
+import dev.didgeridoomh.critcheck.fragments.InventoryFragment;
+import dev.didgeridoomh.critcheck.fragments.SpellsFragment;
+import dev.didgeridoomh.critcheck.fragments.StatsFragment;
 
 public class MainActivity extends AppCompatActivity {
 

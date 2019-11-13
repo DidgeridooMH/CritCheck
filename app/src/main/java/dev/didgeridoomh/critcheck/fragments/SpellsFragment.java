@@ -1,4 +1,4 @@
-package dev.didgeridoomh.critcheck;
+package dev.didgeridoomh.critcheck.fragments;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -8,10 +8,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class StatsFragment extends Fragment {
+import dev.didgeridoomh.critcheck.R;
+
+public class SpellsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.stats_fragment, container, false);
+        return inflater.inflate(R.layout.spells_fragment, container, false);
     }
 }
